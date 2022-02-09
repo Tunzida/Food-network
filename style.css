@@ -230,3 +230,6 @@ button:hover {
   background-color: #ed5565;
   cursor: pointer;
 }
+footer p {
+  text-align: center;
+}
